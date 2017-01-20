@@ -1,2 +1,3 @@
 # arithmetic
-Arithmetic as a focus for learning GitHub.
+This project is just a vehicle for me to learn GitHub.
+But, I will consider actually delivering on the promised arithemtic.
